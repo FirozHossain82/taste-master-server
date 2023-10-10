@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "picture": "https://i.ibb.co/XjyD7Sc/Thomas.jpg",
+        "rating": 4,
+        "review": "The salmon was perfectly cooked, tender, and flaky with a nice char from the grill. The lemon butter sauce was exquisite, providing a delightful balance of acidity and richness that complemented the fish perfectly!"
+    },
+    {
+        "id": "2",
+        "name": "Nieamul Kabir",
+        "picture": "https://i.ibb.co/VTBQ4BH/Nieamul-Kabir.jpg",
+        "rating": 5,
+        "review": " The website is beautifully designed and incredibly easy to navigate. Finding restaurants, reviews, and other food-related content is a breeze"
+    },
+    {
+        "id": "3",
+        "name": "Jennifer",
+        "picture": "https://i.ibb.co/RBV5bC4/Jennifer.jpg",
+        "rating": 3,
+        "review": "The food was authentic and delicious. The menue is reasonably priced and the portion was generous, I couldn't finish up my plate and ended up asking for a box of takeout. Employees were super nice and welcoming . Will visit this place again!"
+    },
+    {
+        "id": "4",
+        "name": "Joseph",
+        "picture": "https://i.ibb.co/x5rf26w/Joseph.jpg",
+        "rating": 5,
+        "review": "The food was good and the place was clean. For what we ordered, we see it very affordable. Our only comment was the filler minion, it was a bit showy. But everything else was fine. will definitely visit them again"
+    },
+    {
+        "id": "5",
+        "name": "Sarah",
+        "picture": "https://i.ibb.co/85LvRDM/Sarah.jpg",
+        "rating": 4,
+        "review": "Dessert here is a dream come true. The chocolate lava cake is pure decadence. A must-try for any chocolate lover!"
+    },
+    {
+        "id": "6",
+        "name": "Firoz hossain",
+        "picture": "https://i.ibb.co/87B6XRm/Firoz-Hossain.jpg",
+        "rating": 4,
+        "review": "Taste Master is an amazing website for food lovers. The recipes are easy to follow and always turn out great. I especially love the videos that show you step by step how to make each dish. Highly recommend!"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "chefName": "Michael Smith",
+        "yearOfExperience": 6,
+        "bioData": "Chef Michael Smith is a is a Japanese chef who has a unique style of blending Japanese cuisine with Western ingredients. He is best known for his appearance on the Japanese television show Iron Chef.",
+        "numberOfRecipes": 15,
+        "likes": 2000,
+        "chefPicture": "https://i.ibb.co/kSbnXFt/chef6.jpg"
+    },
+    {
+        "id": "2",
+        "chefName": "Emily Johnson",
+        "yearOfExperience": 8,
+        "bioData": "Emily Johnson is a talented chef with 8 years of experience in creating flavorful and aromatic dishes. He specializes in using fresh vegetables and herbs to create healthy and nutritious meals for his clients",
+        "numberOfRecipes": 20,
+        "likes": 2500,
+        "chefPicture": "https://i.ibb.co/xShtDS3/chef3.jpg"
+    },
+    {
+        "id": "3",
+        "chefName": "Alice Waters",
+        "yearOfExperience": 25,
+        "bioData": "Chef Alice Waters is a master of United States chefs. He has spent decades perfecting traditional recipes from various regions and infusing them with his own twist.",
+        "numberOfRecipes": 18,
+        "likes": 1000,
+        "chefPicture": "https://i.ibb.co/7Ykb4Cp/chef5.jpg"
+    },
+    {
+        "id": "4",
+        "chefName": "Hooni  Kim",
+        "yearOfExperience": 12,
+        "bioData": "Chef Hooni  Kim is known for her expertise in Korean chef. She brings authenticity and a modern touch to classic Korean dishes.",
+        "numberOfRecipes": 35,
+        "likes": 6000,
+        "chefPicture": "https://i.ibb.co/kSbnXFt/chef6.jpg"
+    },
+    {
+        "id": "5",
+        "chefName": "Antonio Lopez",
+        "yearOfExperience": 7,
+        "bioData": "Chef Antonio Lopez is a master of Italian chefs. His passion for pasta and traditional Italian flavors shines through in his creations.",
+        "numberOfRecipes": 25,
+        "likes": 3000,
+        "chefPicture": "https://i.ibb.co/4PpxSHt/chef8main.jpg"
+    },
+    {
+        "id": "6",
+        "chefName": "Priya Sharma",
+        "yearOfExperience": 10,
+        "bioData": "Priya Sharma Patel is celebrated for her fusion Indian dishes, combining traditional recipes with modern twists. She has a dynamic approach to cooking.",
+        "numberOfRecipes": 60,
+        "likes": 5000,
+        "chefPicture": "https://i.ibb.co/jDRR0qr/chef7.jpg"
+    }
+]
