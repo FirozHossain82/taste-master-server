@@ -9,8 +9,10 @@
         "1 cup julienned carrots",
         "1 cup fresh spinach",
         "Salt and pepper to taste",
-        "4 eggs",
-        " Soyabin Oil"
+        " Soyabin Oil",
+        "2 eggs",
+        "Sesame seeds for garnish",
+        "Salt and pepper to taste"
       ],
       "cookingTime": "30",
       "cookingMethod": "Marinate the thinly sliced beef in a mixture of 2 tablespoons soy sauce, 1 tablespoon sugar, 1 tablespoon sesame oil, and minced garlic. Let it sit for 15-30 minutes.In a pan, heat 1 tablespoon vegetable oil over medium-high heat. Stir-fry each vegetable separately with a pinch of salt until they're cooked but still crisp",
@@ -104,7 +106,7 @@
         "Salt and freshly ground black pepper to taste"
       ],
       "cookingTime": "40",
-      "cookingMethod": " Preheat your grill to high heat, targeting a temperature of approximately 450-500°F (230-260°C).In a small bowl, combine minced garlic, olive oil, chopped rosemary, chopped thyme, salt, and freshly ground black pepper to create a flavorful marinade.arefully place the marinated ribeye steaks on the preheated grill. Grill each side for approximately 4-5 minutes for medium-rare or adjust the cooking time to your preferred level of doneness",
+      "cookingMethod": " Preheat your grill to high heat, targeting a temperature of approximately 450-500°F (230-260°C).In a small bowl, combine minced garlic, olive oil, chopped rosemary, chopped thyme, salt, and freshly ground black pepper to create a flavorful marinade.arefully place the marinated ribeye steaks on the preheated grill. Grill each side for approximately 4-5 minutes. for medium-rare or adjust the cooking.",
       "rating": 4.0
     },
     {
@@ -171,7 +173,7 @@
     {
       "id": 10,
       "chef_id": 4,
-      "recipeName": "Chicken Biryani",
+      "recipeName": "Chicken Biriyani",
       "recipeImage": "https://i.ibb.co/wdTYVgs/chicken-briyani.jpg",
       "ingredients": [
         "2 cups basmati rice",
@@ -181,10 +183,7 @@
         "1/2 cup plain yogurt",
         "2 tablespoons ginger-garlic paste",
         "2 teaspoons Biryani masala",
-        "1 teaspoon turmeric powder",
-        "1 teaspoon cumin seeds",
-        "4-5 green cardamom pods",
-        "Soyabin oil"
+        "1 teaspoon turmeric powder"
       ],
       "cookingTime": "70",
       "cookingMethod": "Wash the basmati rice in cold water until the water runs clear. Soak the rice in water for 30 minutes, then drain. In a large pot, bring water to a boil. Add the drained rice and cook until it's about 70-80% cooked. Drain the rice and set it aside.Add chicken pieces and cook until they are no longer pink on the outside.Add yogurt, Biryani masala, turmeric powder, and salt. Cook until the chicken is almost done.",
@@ -206,7 +205,7 @@
         "1/2 teaspoon ground turmeric"
       ],
       "cookingTime": "60",
-      "cookingMethod": "In a large bowl, combine plain yogurt, ginger-garlic paste, lemon juice, Tandoori masala spice blend, ground cumin, ground coriander, ground turmeric, cayenne pepper, and salt to create the Tandoori marinade. Preheat your grill to medium-high heat (around 400°F or 200°C).Grill the chicken for about 15-20 minutes,",
+      "cookingMethod": "In a large bowl, combine plain yogurt, ginger-garlic paste, lemon juice, Tandoori masala spice blend, ground cumin, ground coriander, ground turmeric, cayenne pepper, and salt to create the Tandoori marinade. Preheat your grill to medium-high heat (around 400°F or 200°C).Grill the chicken for about 15-20 minutes,Preheat your grill to medium-high heat (around 400°F or 200°C).Grill the chicken for about 15-20 minutes,",
       "rating": 4.2
     },
     {
@@ -299,7 +298,7 @@
         "½ teaspoon baking powder"
       ],
       "cookingTime": "90",
-      "cookingMethod": "In a large bowl, stir together the milk powder, flour, baking powder, and cardamom. Stir in the almonds, pistachios and golden raisins. Mix in the melted ghee, then pour in the milk, and continue to mix until well blended. Cover and let rest for 20 minutes.In a large skillet, stir together the sugar, water, rose water and a pinch of cardamom. Bring to a boil, and simmer for just a minute. Set aside.",
+      "cookingMethod": "In a large bowl, stir together the milk powder, flour, baking powder, and cardamom. Stir in the almonds, pistachios and golden raisins. Mix in the melted ghee, then pour in the milk, and continue to mix until well blended. Cover and let rest for 20 minutes.In a large skillet, stir together the sugar, water, rose water and a pinch of cardamom. Bring to a boil, and simmer for just a minute. Set aside.and simmer for just a minute. Set aside.",
       "rating": 4.5
     },
     {
@@ -318,7 +317,7 @@
         "saffron"
       ],
       "cookingTime": "55",
-      "cookingMethod": "Preheat your oven to 350°F (175°C) and line a muffin tin with cupcake liners.In a mixing bowl, cream together 1/2 cup (1 stick) of softened unsalted butter and 1 cup of granulated sugar until light and fluffy.Add 2 large eggs, one at a time, mixing well after each addition. Stir in 2 teaspoons of vanilla extract.Bake in the preheated oven for 18-20 minutes or until a toothpick inserted into the center of a cupcake comes out clean.Remove the cupcakes from the oven and let them cool in the muffin tin for a few minutes before transferring them to a wire rack to cool completely.",
+      "cookingMethod": "Preheat your oven to 350°F (175°C) and line a muffin tin with cupcake liners.In a mixing bowl, cream together 1/2 cup (1 stick) of softened unsalted butter and 1 cup of granulated sugar until light and fluffy.Add 2 large eggs, one at a time, mixing well after each addition. Stir in 2 teaspoons of vanilla extract.Bake in the preheated oven for 18-20 minutes or until a toothpick.",
       "rating": 4.2
     },
     {
